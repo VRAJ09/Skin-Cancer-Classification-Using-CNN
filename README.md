@@ -9,7 +9,9 @@
   <p align="center">
     <br />
     <a href="https://github.com/VRAJ09">Vraj Patel</a>
-                    Problem Definition
+    <p align="center>
+                    Problem Definition            
     To Detect and Classify Skin Cancers using CNN and YOLO. 
+    </p>
   </p>
 </div>
