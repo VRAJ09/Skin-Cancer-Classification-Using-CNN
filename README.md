@@ -22,6 +22,6 @@
 
 <div align = "center">
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1V62wKIqLS2GqIoxjXe5itcq4PNOG_68u/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V62wKIqLS2GqIoxjXe5itcq4PNOG_68u/view?usp=sharing)
 <br>
 </div>
