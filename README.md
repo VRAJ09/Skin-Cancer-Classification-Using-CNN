@@ -7,6 +7,8 @@
 <h3 align="center">Skin Cancer Detection and Classification Using CNN and YOLO</h3>
 
   <p align="center">
+     <br />
+    <a href="https://github.com/VRAJ09">Vraj Patel</a>
                   Problem Definition  
   </p>
    <p align="center">
