@@ -7,8 +7,11 @@
 <h3 align="center">Skin Cancer Detection and Classification Using CNN and YOLO</h3>
 
   <p align="center">
-                      Problem Definition 
+    
+                      Problem Definition  
+    
       To Detect and Classify Skin Cancers using CNN and YOLO. 
+      
   </p>
 </div>
 
