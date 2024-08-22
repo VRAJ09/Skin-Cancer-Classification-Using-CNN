@@ -34,3 +34,12 @@ Skin cancer is the most common form of cancer, with over 5 million cases diagnos
 <br><br>
 The CNN model is evaluated using metrics such as accuracy, sensitivity, specificity, and F1 score, with preliminary results indicating a significant improvement in identifying malignant lesions. For example, the model achieved over 90% accuracy in distinguishing between malignant and benign lesions, surpassing the average dermatologist's diagnostic accuracy. This study underscores the potential of CNNs to be integrated into clinical settings, offering a reliable, non-invasive, and cost-effective tool for early skin cancer detection, which could ultimately save thousands of lives annually by improving diagnostic precision and enabling timely treatment.
 <p>
+
+## DataSet
+Dataset: [Kaggle](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/data)
+
+<div align="left">
+  <a href="https://github.com/VRAJ09/Skin-Cancer-Detection">
+    <img src="https://github.com/VRAJ09/Skin-Cancer-Detection/blob/main/Skin_Datase_Img.png" alt="dataset_description" width="200" height="400">
+  </a>
+  </div>
