@@ -4,7 +4,7 @@
     <img src="https://media.glamour.com/photos/5d49410c93da760008776bf0/master/w_1920,c_limit/0805_eczema_lede.gif" alt="logo" width="256" height="144">
   </a>
 
-<h3 align="center">Skin Cancer Detection and Classification Using CNN and YOLO</h3>
+<h3 align="center">Skin Cancer Detection and Classification Using CNN Models</h3>
 
   <p align="center">
      <br />
@@ -14,7 +14,7 @@
                   Problem Definition  
   </p>
    <p align="center">
-      To Detect and Classify Skin Cancers using CNN and YOLO. 
+      To Detect and Classify Skin Cancers using CNN Models. 
   </p>
 </div>
 
